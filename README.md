@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**UlugbekErkinov/UlugbekErkinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+```
 
 - 🔭 I’m currently working on Automation Processes in Production 
 - 🌱 I’m currently learning Data analysis using Python libraries
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: u.erkinov@inbox.ru
 - 😄 Pronouns: vonikreus
 - ⚡ Fun fact: fakecoder
--->
+'''
