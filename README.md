@@ -10,4 +10,4 @@
 - 📫 How to reach me: u.erkinov@inbox.ru
 - 😄 Pronouns: vonikreus
 - ⚡ Fun fact: fakecoder
-'''
+```
