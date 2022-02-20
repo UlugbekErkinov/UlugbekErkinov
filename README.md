@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiulugbekerkinov=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ```
 
