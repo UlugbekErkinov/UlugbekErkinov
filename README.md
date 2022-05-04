@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=51C5DA&center=true&vCenter=true&width=900&height=110&lines=Hi+There,+I+am+Ulugbek👋)](https://www.linkedin.com/in/ulugbekerkinov/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=079309&center=true&vCenter=true&width=900&height=110&lines=Hi+There,+I+am+Ulugbek👋)](https://www.linkedin.com/in/ulugbekerkinov/)
 ```
 
 - 🔭 I’m currently working on Automation Processes in Production 
