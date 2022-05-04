@@ -1,6 +1,5 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulugbekerkinov)](https://github.com/anuraghazra/github-readme-stats)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Hi+There,+I+am+Ulugbek👋)](https://www.linkedin.com/in/ulugbekerkinov/)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=FF6833&center=true&vCenter=true&width=900&height=110&lines=Hi+There,+I+am+Ulugbek👋)](https://www.linkedin.com/in/ulugbekerkinov/)
 ```
 
 - 🔭 I’m currently working on Automation Processes in Production 
