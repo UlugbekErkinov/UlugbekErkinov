@@ -5,10 +5,10 @@
 - 🔭 I’m currently working on Automation Processes in Production 
 - 🌱 I’m currently learning Data analysis using Python libraries
 - 👯 I’m looking to collaborate on Django Projects
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with NLP
 - 💬 Ask me about pythpn, django, flask, tableu, powerBI
 - 📫 How to reach me: u.erkinov@inbox.ru
-- 😄 Pronouns: vonikreus
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: fakecoder
 ```
 ## Connect with me
