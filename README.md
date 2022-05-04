@@ -13,8 +13,9 @@
 ```
 ## Connect with me
 <p align="center">
+ 
   <a href="https://t.me/vonikreus">
-    <img src="https://img.shields.io/telegram/followers/ulugbekerkinov?label=Followers&logo=Telegram&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="GitHub badge" />
   </a>
   <a href="https://github.com/ulugbekerkinov">
     <img src="https://img.shields.io/github/followers/ulugbekerkinov?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
