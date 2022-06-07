@@ -11,7 +11,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: fakecoder
 ```
-### Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
