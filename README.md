@@ -1,4 +1,4 @@
-
+[![An image of @ulugbekerkinov's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ulugbekerkinov)](https://holopin.io/@ulugbekerkinov)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=079309&center=true&vCenter=true&width=900&height=110&lines=Hi+There,+I+am+Ulugbek👋)](https://www.linkedin.com/in/ulugbekerkinov/)
 ```
 
@@ -56,4 +56,4 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ulugbekerkinov&&style=flat-square" align="center" height='25px' />
 </div>  
-[!(https://holopin.me/ulugbekerkinov)](https://holopin.io/@ulugbekerkinov)
+
