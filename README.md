@@ -56,3 +56,4 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ulugbekerkinov&&style=flat-square" align="center" height='25px' />
 </div>  
+[![An image of @ulugbekerkinov's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ulugbekerkinov)](https://holopin.io/@ulugbekerkinov)
