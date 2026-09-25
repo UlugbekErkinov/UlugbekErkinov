@@ -61,7 +61,6 @@ I care about measurable quality. Model and retrieval changes go through evals be
 
 <p>
   <a href="https://www.linkedin.com/in/ulugbekerkinov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:im.ulugbek.erkinov@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/fobos_hero/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
